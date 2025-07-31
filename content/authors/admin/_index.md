@@ -3,8 +3,7 @@
 title: Moro
 
 # Name pronunciation (optional)
-name_pronunciation: Morovati
-
+name_pronunciation:
 # Full name (for SEO)
 first_name: MohammadEbrahim
 last_name: Morovati
@@ -24,8 +23,8 @@ role: FrontEnd Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name:
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,13 +46,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software development
+  - Software optimization
+  - Problem solving
+  - Collaborating different scopes
+  - Sketching/Presenting/Executing ideas
+  - Challenging ideas
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: BSc in Information Technology, 2026
+    institution: Tabriz University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With over 4 years of experience, I am a seasoned Software Engineer specializing in crafting innovative solutions to drive business efficiency. My expertise spans multiple programming languages: Backend, Front-End, and databases. I excel in navigating the entire Software Development Life Cycle (SDLC) and orchestrating end-to-end project management. Known for my hands-on development skills and adeptness in leading cross-functional teams with agile methodologies, I thrive in tackling diverse challenges and ensuring alignment with budgetary constraints.
