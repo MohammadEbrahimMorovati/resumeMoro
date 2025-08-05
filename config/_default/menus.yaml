@@ -28,7 +28,7 @@
 main:
   - name: Home
     url: /
-    weight: 10s
+    weight: 10
   - name: Skills
     url: /#papers
     weight: 11
